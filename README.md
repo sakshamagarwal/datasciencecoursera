@@ -1,4 +1,4 @@
-datasciencecoursera
+Data Science Coursera
 ===================
 
-Data Science Toolbox course project
+Data Science Toolbox - course project
